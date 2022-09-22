@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * main - consists of all.
+ * Description: prints magic.
+ * Return: 0
+ */
 int main(void)
 {
 int n;
